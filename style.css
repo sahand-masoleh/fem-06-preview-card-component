@@ -55,32 +55,41 @@ img {
 
 div.cards:nth-of-type(1) {
 	background-color: var(--bright-orange);
+	color: var(--bright-orange);
 }
 
 div.cards:nth-of-type(2) {
 	background-color: var(--dark-cyan);
+	color: var(--dark-cyan);
 }
 
 div.cards:nth-of-type(3) {
 	background-color: var(--very-dark-cyan);
+	color: var(--very-dark-cyan);
 }
 
 button {
-	background-color: transparent;
+	background-color: var(--very-light-gray);
+	color: inherit;
 	width: fit-content;
 	padding: 1em 2em;
 	margin-top: auto;
-	border: 0.1em solid var(--very-light-gray);
+	border: 0.2em solid var(--very-light-gray);
 	border-radius: 2em;
-	color: var(--very-light-gray);
 	font-size: 1em;
+	cursor: pointer;
+}
+
+button:hover {
+	background-color: transparent;
+	color: var(--very-light-gray);
 }
 
 .attribution {
 	position: relative;
 	color: var(--very-dark-cyan);
 	bottom: 3px;
-	font-size: 1em;
+	font-size: 0.8em;
 	text-align: center;
 }
 .attribution a {
