@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/sahand-masoleh/fem-06-preview-card-component)
-- Live Site URL: [Add live site URL here](https://sahand-masoleh.github.io/fem-06-preview-card-component)
+- Solution URL: [Github](https://github.com/sahand-masoleh/fem-06-preview-card-component)
+- Live Site URL: [Github Pages](https://sahand-masoleh.github.io/fem-06-preview-card-component)
 
 ### Built with
 
